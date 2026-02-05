@@ -2,7 +2,6 @@
 ---
 *WElCOME TO GIT*
 
-> This is the '  experiment/user-x' branch!!
+*WElCOME TO GIT:))*
 
-- git is a version control software.
-- today is a nice day
+> This is the "experiment/git-practice" branch

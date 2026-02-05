@@ -1,3 +1,3 @@
-# Learning GIT!!
+# Welcome to GIT!!
 ---
 

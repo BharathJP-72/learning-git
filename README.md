@@ -1,3 +1,3 @@
-##Learning GIT!!
-
-##Welcome to experiment/git-practice branch!!
+# Learning GIT!!
+---
+*WElCOME TO GIT*

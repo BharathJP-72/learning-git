@@ -1,6 +1,6 @@
 # Learning GIT!!
 ---
-*WElCOME TO GIT:)))))*
+*WElCOME TO GIT: everyone*
 
 > This is the '  experiment/user-x' branch!!
 
